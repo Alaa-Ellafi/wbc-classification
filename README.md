@@ -34,17 +34,6 @@ Three notebooks document an iterative model comparison, all using ImageNet-pretr
 
 ---
 
-## Results
-
-| Model | Macro F1 (public) | Macro F1 (private) |
-|-------|-------------------|---------------------|
-| EfficientNet | — | — |
-| ConvNeXt-Small | — | — |
-| ConvNeXt-Base | — | **0.78** |
-
-> Competition: 80 teams, 1,230 total submissions
-
----
 
 ## Stack
 
